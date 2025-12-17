@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution / Packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Project Specific
+# Large data files
+data/x_train.npy
+data/computed_results/
+
+# Saved models (optional, usually good to ignore large binaries, but user might want to track this one if small enough)
+# Un-comment to ignore models
+# models/*.h5
+
+# Output images
+output_images/
+
+# System
+.DS_Store
+Thumbs.db
