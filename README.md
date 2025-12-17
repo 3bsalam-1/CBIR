@@ -1,6 +1,5 @@
 # Content-Based Image Retrieval (CBIR) using Autoencoders
 
-![Project Banner](output_images/retrieved_results_1.jpg) <!-- Replace with a representative image if available, using generated results -->
 
 A Deep Learning project that implements Content-Based Image Retrieval (CBIR) functionality using a Convolutional Autoencoder on the CIFAR-10 dataset. The system learns compressed feature representations (embeddings) of images to clean noisy inputs and retrieve visually similar images efficiently.
 
